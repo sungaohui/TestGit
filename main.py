@@ -9,4 +9,8 @@ def __init():
 def pp():
     print("pp
 def four():
+    aa = "cc"
     print("fourth")
+
+def cc():
+    print("from linux")
