@@ -8,3 +8,5 @@ def __init():
 
 def pp():
     print("pp
+def four():
+    print("fourth")
