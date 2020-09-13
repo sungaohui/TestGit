@@ -5,3 +5,6 @@ def aa():
 main()
 def __init():
     print("init")
+
+def pp():
+    print("pp
