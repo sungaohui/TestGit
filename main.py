@@ -14,3 +14,5 @@ def four():
 
 def cc():
     print("from linux")
+def five():
+    print("five time")
