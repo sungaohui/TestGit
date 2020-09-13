@@ -3,4 +3,5 @@ def aa():
     print("aa")
 
 main()
-
+def __init():
+    print("init")
